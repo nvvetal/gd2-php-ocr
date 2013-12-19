@@ -1,0 +1,15 @@
+{
+    "name": "nvvetal/gd2-php-ocr",
+    "description": "ololo",
+    "minimum-stability": "stable",
+    "license": "proprietary",
+    "authors": [
+        {
+            "name": "author's name",
+            "email": "email@example.com"
+        }
+    ],
+    "autoload": {
+        "classmap": ["cOCR.php"]
+    }
+}
